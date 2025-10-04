@@ -1,0 +1,23 @@
+# Core NLP and Spelling Correction Libraries
+nltk==3.9.1
+pyspellchecker==0.8.3
+autocorrect==2.6.1
+textdistance==4.6.3
+
+# Machine Learning and Data Processing
+scikit-learn==1.7.2
+pandas==2.3.2
+numpy==2.3.3
+
+# Web Interface and Visualization
+streamlit==1.49.1
+
+# Utility Libraries
+requests==2.31.0
+
+# Optional: For PDF/LaTeX generation
+# markdown==3.7
+# pdfkit==1.0.0
+
+# Development and Testing (optional)
+# pytest==8.3.4
