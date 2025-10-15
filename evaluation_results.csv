@@ -1,0 +1,5 @@
+Method,Accuracy (%),Samples,Correct,Corrections Made,Avg Time (ms),Total Time (s)
+pyspellchecker,91.76,2671,2451,2528,32.24,86.11
+autocorrect,88.13,2671,2354,2467,4.276,11.42
+frequency,69.34,2671,1852,2528,34.06,90.97
+levenshtein,60.76,2671,1623,1873,37.543,100.28

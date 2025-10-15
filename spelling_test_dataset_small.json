@@ -1,0 +1,2600 @@
+[
+  {
+    "correct": "will",
+    "error": "wipl",
+    "error_type": "keyboard",
+    "context": "I believe the will is correct."
+  },
+  {
+    "correct": "first",
+    "error": "firat",
+    "error_type": "keyboard",
+    "context": "The first is very important in this situation."
+  },
+  {
+    "correct": "than",
+    "error": "tnan",
+    "error_type": "keyboard",
+    "context": "We should focus on the than first."
+  },
+  {
+    "correct": "technology",
+    "error": "technopogy",
+    "error_type": "keyboard",
+    "context": "This technology has been discussed many times."
+  },
+  {
+    "correct": "occurrence",
+    "error": "ovcurrence",
+    "error_type": "keyboard",
+    "context": "We should focus on the occurrence first."
+  },
+  {
+    "correct": "from",
+    "error": "frim",
+    "error_type": "keyboard",
+    "context": "We need to consider the from carefully."
+  },
+  {
+    "correct": "knowledge",
+    "error": "knowlexge",
+    "error_type": "keyboard",
+    "context": "I believe the knowledge is correct."
+  },
+  {
+    "correct": "infrastructure",
+    "error": "inffastructure",
+    "error_type": "keyboard",
+    "context": "The infrastructure shows interesting patterns."
+  },
+  {
+    "correct": "become",
+    "error": "becoje",
+    "error_type": "keyboard",
+    "context": "The become demonstrates the concept well."
+  },
+  {
+    "correct": "millennium",
+    "error": "millennjum",
+    "error_type": "keyboard",
+    "context": "We need to consider the millennium carefully."
+  },
+  {
+    "correct": "education",
+    "error": "educatkon",
+    "error_type": "keyboard",
+    "context": "This education has been discussed many times."
+  },
+  {
+    "correct": "always",
+    "error": "alwxys",
+    "error_type": "keyboard",
+    "context": "We should focus on the always first."
+  },
+  {
+    "correct": "discipline",
+    "error": "disxipline",
+    "error_type": "keyboard",
+    "context": "The discipline is very important in this situation."
+  },
+  {
+    "correct": "know",
+    "error": "khow",
+    "error_type": "keyboard",
+    "context": "We need to consider the know carefully."
+  },
+  {
+    "correct": "authentication",
+    "error": "authentixation",
+    "error_type": "keyboard",
+    "context": "This authentication has been discussed many times."
+  },
+  {
+    "correct": "work",
+    "error": "wofk",
+    "error_type": "keyboard",
+    "context": "This work has been discussed many times."
+  },
+  {
+    "correct": "when",
+    "error": "whrn",
+    "error_type": "keyboard",
+    "context": "We should focus on the when first."
+  },
+  {
+    "correct": "investigation",
+    "error": "investigatjon",
+    "error_type": "keyboard",
+    "context": "The investigation appears frequently in texts."
+  },
+  {
+    "correct": "want",
+    "error": "wamt",
+    "error_type": "keyboard",
+    "context": "The want is very important in this situation."
+  },
+  {
+    "correct": "was",
+    "error": "wzs",
+    "error_type": "keyboard",
+    "context": "I believe the was is correct."
+  },
+  {
+    "correct": "architecture",
+    "error": "arcyitecture",
+    "error_type": "keyboard",
+    "context": "I believe the architecture is correct."
+  },
+  {
+    "correct": "always",
+    "error": "alwqys",
+    "error_type": "keyboard",
+    "context": "The always demonstrates the concept well."
+  },
+  {
+    "correct": "when",
+    "error": "whdn",
+    "error_type": "keyboard",
+    "context": "We should focus on the when first."
+  },
+  {
+    "correct": "information",
+    "error": "imformation",
+    "error_type": "keyboard",
+    "context": "This information has been discussed many times."
+  },
+  {
+    "correct": "tomorrow",
+    "error": "tomorfow",
+    "error_type": "keyboard",
+    "context": "The tomorrow shows interesting patterns."
+  },
+  {
+    "correct": "management",
+    "error": "managemwnt",
+    "error_type": "keyboard",
+    "context": "The management appears frequently in texts."
+  },
+  {
+    "correct": "much",
+    "error": "mufh",
+    "error_type": "keyboard",
+    "context": "The much appears frequently in texts."
+  },
+  {
+    "correct": "maintenance",
+    "error": "mainyenance",
+    "error_type": "keyboard",
+    "context": "The maintenance is very important in this situation."
+  },
+  {
+    "correct": "will",
+    "error": "wkll",
+    "error_type": "keyboard",
+    "context": "This will has been discussed many times."
+  },
+  {
+    "correct": "liaison",
+    "error": "liwison",
+    "error_type": "keyboard",
+    "context": "I believe the liaison is correct."
+  },
+  {
+    "correct": "existence",
+    "error": "existende",
+    "error_type": "keyboard",
+    "context": "I believe the existence is correct."
+  },
+  {
+    "correct": "conscience",
+    "error": "conscirnce",
+    "error_type": "keyboard",
+    "context": "I believe the conscience is correct."
+  },
+  {
+    "correct": "you",
+    "error": "ypu",
+    "error_type": "keyboard",
+    "context": "We need to consider the you carefully."
+  },
+  {
+    "correct": "many",
+    "error": "mamy",
+    "error_type": "keyboard",
+    "context": "The many appears frequently in texts."
+  },
+  {
+    "correct": "foreign",
+    "error": "forejgn",
+    "error_type": "keyboard",
+    "context": "The foreign shows interesting patterns."
+  },
+  {
+    "correct": "being",
+    "error": "beihg",
+    "error_type": "keyboard",
+    "context": "We need to consider the being carefully."
+  },
+  {
+    "correct": "character",
+    "error": "cnaracter",
+    "error_type": "keyboard",
+    "context": "I believe the character is correct."
+  },
+  {
+    "correct": "architecture",
+    "error": "architdcture",
+    "error_type": "keyboard",
+    "context": "This architecture has been discussed many times."
+  },
+  {
+    "correct": "infrastructure",
+    "error": "incrastructure",
+    "error_type": "keyboard",
+    "context": "I believe the infrastructure is correct."
+  },
+  {
+    "correct": "management",
+    "error": "manxgement",
+    "error_type": "keyboard",
+    "context": "I believe the management is correct."
+  },
+  {
+    "correct": "management",
+    "error": "majagement",
+    "error_type": "keyboard",
+    "context": "The management appears frequently in texts."
+  },
+  {
+    "correct": "communication",
+    "error": "comkunication",
+    "error_type": "keyboard",
+    "context": "I believe the communication is correct."
+  },
+  {
+    "correct": "with",
+    "error": "wifh",
+    "error_type": "keyboard",
+    "context": "This with has been discussed many times."
+  },
+  {
+    "correct": "know",
+    "error": "knpw",
+    "error_type": "keyboard",
+    "context": "The know demonstrates the concept well."
+  },
+  {
+    "correct": "for",
+    "error": "flr",
+    "error_type": "keyboard",
+    "context": "I believe the for is correct."
+  },
+  {
+    "correct": "over",
+    "error": "ovrr",
+    "error_type": "keyboard",
+    "context": "The over shows interesting patterns."
+  },
+  {
+    "correct": "investigation",
+    "error": "investivation",
+    "error_type": "keyboard",
+    "context": "The investigation is very important in this situation."
+  },
+  {
+    "correct": "and",
+    "error": "ahd",
+    "error_type": "keyboard",
+    "context": "This and has been discussed many times."
+  },
+  {
+    "correct": "know",
+    "error": "knpw",
+    "error_type": "keyboard",
+    "context": "The know appears frequently in texts."
+  },
+  {
+    "correct": "achievement",
+    "error": "acjievement",
+    "error_type": "keyboard",
+    "context": "We should focus on the achievement first."
+  },
+  {
+    "correct": "development",
+    "error": "debelopment",
+    "error_type": "keyboard",
+    "context": "We need to consider the development carefully."
+  },
+  {
+    "correct": "certificate",
+    "error": "certkficate",
+    "error_type": "keyboard",
+    "context": "The certificate is very important in this situation."
+  },
+  {
+    "correct": "separate",
+    "error": "swparate",
+    "error_type": "keyboard",
+    "context": "This separate has been discussed many times."
+  },
+  {
+    "correct": "here",
+    "error": "hsre",
+    "error_type": "keyboard",
+    "context": "The here demonstrates the concept well."
+  },
+  {
+    "correct": "below",
+    "error": "belpw",
+    "error_type": "keyboard",
+    "context": "The below is very important in this situation."
+  },
+  {
+    "correct": "responsibility",
+    "error": "responsibolity",
+    "error_type": "keyboard",
+    "context": "The responsibility shows interesting patterns."
+  },
+  {
+    "correct": "long",
+    "error": "lojg",
+    "error_type": "keyboard",
+    "context": "I believe the long is correct."
+  },
+  {
+    "correct": "will",
+    "error": "wipl",
+    "error_type": "keyboard",
+    "context": "We should focus on the will first."
+  },
+  {
+    "correct": "people",
+    "error": "peoppe",
+    "error_type": "keyboard",
+    "context": "The people shows interesting patterns."
+  },
+  {
+    "correct": "well",
+    "error": "wdll",
+    "error_type": "keyboard",
+    "context": "We should focus on the well first."
+  },
+  {
+    "correct": "take",
+    "error": "taje",
+    "error_type": "keyboard",
+    "context": "The take shows interesting patterns."
+  },
+  {
+    "correct": "communication",
+    "error": "comnunication",
+    "error_type": "keyboard",
+    "context": "The communication shows interesting patterns."
+  },
+  {
+    "correct": "anyone",
+    "error": "anyohe",
+    "error_type": "keyboard",
+    "context": "I believe the anyone is correct."
+  },
+  {
+    "correct": "communication",
+    "error": "commumication",
+    "error_type": "keyboard",
+    "context": "The communication shows interesting patterns."
+  },
+  {
+    "correct": "beginning",
+    "error": "beginbing",
+    "error_type": "keyboard",
+    "context": "The beginning is very important in this situation."
+  },
+  {
+    "correct": "also",
+    "error": "alwo",
+    "error_type": "keyboard",
+    "context": "The also demonstrates the concept well."
+  },
+  {
+    "correct": "infrastructure",
+    "error": "infradtructure",
+    "error_type": "keyboard",
+    "context": "The infrastructure shows interesting patterns."
+  },
+  {
+    "correct": "conscience",
+    "error": "consciehce",
+    "error_type": "keyboard",
+    "context": "We should focus on the conscience first."
+  },
+  {
+    "correct": "collaboration",
+    "error": "collaborayion",
+    "error_type": "keyboard",
+    "context": "This collaboration has been discussed many times."
+  },
+  {
+    "correct": "become",
+    "error": "bevome",
+    "error_type": "keyboard",
+    "context": "The become appears frequently in texts."
+  },
+  {
+    "correct": "around",
+    "error": "aroumd",
+    "error_type": "keyboard",
+    "context": "The around shows interesting patterns."
+  },
+  {
+    "correct": "application",
+    "error": "appoication",
+    "error_type": "keyboard",
+    "context": "The application shows interesting patterns."
+  },
+  {
+    "correct": "the",
+    "error": "tje",
+    "error_type": "keyboard",
+    "context": "We should focus on the the first."
+  },
+  {
+    "correct": "from",
+    "error": "frkm",
+    "error_type": "keyboard",
+    "context": "The from appears frequently in texts."
+  },
+  {
+    "correct": "were",
+    "error": "wsre",
+    "error_type": "keyboard",
+    "context": "This were has been discussed many times."
+  },
+  {
+    "correct": "February",
+    "error": "Februqry",
+    "error_type": "keyboard",
+    "context": "We need to consider the February carefully."
+  },
+  {
+    "correct": "people",
+    "error": "psople",
+    "error_type": "keyboard",
+    "context": "The people is very important in this situation."
+  },
+  {
+    "correct": "when",
+    "error": "wben",
+    "error_type": "keyboard",
+    "context": "We should focus on the when first."
+  },
+  {
+    "correct": "been",
+    "error": "bren",
+    "error_type": "keyboard",
+    "context": "We should focus on the been first."
+  },
+  {
+    "correct": "almost",
+    "error": "aljost",
+    "error_type": "keyboard",
+    "context": "We need to consider the almost carefully."
+  },
+  {
+    "correct": "recommendation",
+    "error": "rexommendation",
+    "error_type": "keyboard",
+    "context": "The recommendation shows interesting patterns."
+  },
+  {
+    "correct": "time",
+    "error": "tome",
+    "error_type": "keyboard",
+    "context": "We should focus on the time first."
+  },
+  {
+    "correct": "component",
+    "error": "comoonent",
+    "error_type": "keyboard",
+    "context": "The component shows interesting patterns."
+  },
+  {
+    "correct": "embarrass",
+    "error": "enbarrass",
+    "error_type": "keyboard",
+    "context": "The embarrass is very important in this situation."
+  },
+  {
+    "correct": "environment",
+    "error": "envifonment",
+    "error_type": "keyboard",
+    "context": "The environment shows interesting patterns."
+  },
+  {
+    "correct": "because",
+    "error": "befause",
+    "error_type": "keyboard",
+    "context": "This because has been discussed many times."
+  },
+  {
+    "correct": "implementation",
+    "error": "implekentation",
+    "error_type": "keyboard",
+    "context": "We should focus on the implementation first."
+  },
+  {
+    "correct": "time",
+    "error": "tkme",
+    "error_type": "keyboard",
+    "context": "We need to consider the time carefully."
+  },
+  {
+    "correct": "such",
+    "error": "suvh",
+    "error_type": "keyboard",
+    "context": "The such appears frequently in texts."
+  },
+  {
+    "correct": "communication",
+    "error": "communicatipn",
+    "error_type": "keyboard",
+    "context": "The communication appears frequently in texts."
+  },
+  {
+    "correct": "architecture",
+    "error": "archktecture",
+    "error_type": "keyboard",
+    "context": "We need to consider the architecture carefully."
+  },
+  {
+    "correct": "millennium",
+    "error": "millejnium",
+    "error_type": "keyboard",
+    "context": "I believe the millennium is correct."
+  },
+  {
+    "correct": "are",
+    "error": "ade",
+    "error_type": "keyboard",
+    "context": "We need to consider the are carefully."
+  },
+  {
+    "correct": "here",
+    "error": "hede",
+    "error_type": "keyboard",
+    "context": "The here is very important in this situation."
+  },
+  {
+    "correct": "implementation",
+    "error": "implementatiln",
+    "error_type": "keyboard",
+    "context": "The implementation shows interesting patterns."
+  },
+  {
+    "correct": "colonel",
+    "error": "colohel",
+    "error_type": "keyboard",
+    "context": "The colonel is very important in this situation."
+  },
+  {
+    "correct": "make",
+    "error": "mzke",
+    "error_type": "keyboard",
+    "context": "The make demonstrates the concept well."
+  },
+  {
+    "correct": "understanding",
+    "error": "uhderstanding",
+    "error_type": "keyboard",
+    "context": "I believe the understanding is correct."
+  },
+  {
+    "correct": "when",
+    "error": "whwn",
+    "error_type": "keyboard",
+    "context": "We should focus on the when first."
+  },
+  {
+    "correct": "time",
+    "error": "tkme",
+    "error_type": "keyboard",
+    "context": "We need to consider the time carefully."
+  },
+  {
+    "correct": "above",
+    "error": "abpve",
+    "error_type": "keyboard",
+    "context": "The above shows interesting patterns."
+  },
+  {
+    "correct": "maintenance",
+    "error": "maintenanfe",
+    "error_type": "keyboard",
+    "context": "I believe the maintenance is correct."
+  },
+  {
+    "correct": "organization",
+    "error": "organizayion",
+    "error_type": "keyboard",
+    "context": "We should focus on the organization first."
+  },
+  {
+    "correct": "administration",
+    "error": "admjnistration",
+    "error_type": "keyboard",
+    "context": "The administration shows interesting patterns."
+  },
+  {
+    "correct": "from",
+    "error": "feom",
+    "error_type": "keyboard",
+    "context": "This from has been discussed many times."
+  },
+  {
+    "correct": "that",
+    "error": "thqt",
+    "error_type": "keyboard",
+    "context": "The that shows interesting patterns."
+  },
+  {
+    "correct": "come",
+    "error": "cime",
+    "error_type": "keyboard",
+    "context": "The come demonstrates the concept well."
+  },
+  {
+    "correct": "experience",
+    "error": "expsrience",
+    "error_type": "keyboard",
+    "context": "I believe the experience is correct."
+  },
+  {
+    "correct": "anything",
+    "error": "anythjng",
+    "error_type": "keyboard",
+    "context": "We need to consider the anything carefully."
+  },
+  {
+    "correct": "education",
+    "error": "educarion",
+    "error_type": "keyboard",
+    "context": "We need to consider the education carefully."
+  },
+  {
+    "correct": "work",
+    "error": "wprk",
+    "error_type": "keyboard",
+    "context": "The work demonstrates the concept well."
+  },
+  {
+    "correct": "infrastructure",
+    "error": "ihfrastructure",
+    "error_type": "keyboard",
+    "context": "The infrastructure shows interesting patterns."
+  },
+  {
+    "correct": "jewelry",
+    "error": "jwwelry",
+    "error_type": "keyboard",
+    "context": "The jewelry is very important in this situation."
+  },
+  {
+    "correct": "jewelry",
+    "error": "jewrlry",
+    "error_type": "keyboard",
+    "context": "The jewelry appears frequently in texts."
+  },
+  {
+    "correct": "professional",
+    "error": "profeasional",
+    "error_type": "keyboard",
+    "context": "The professional is very important in this situation."
+  },
+  {
+    "correct": "this",
+    "error": "tjis",
+    "error_type": "keyboard",
+    "context": "I believe the this is correct."
+  },
+  {
+    "correct": "complexity",
+    "error": "complexuty",
+    "error_type": "keyboard",
+    "context": "The complexity is very important in this situation."
+  },
+  {
+    "correct": "weird",
+    "error": "weurd",
+    "error_type": "keyboard",
+    "context": "We should focus on the weird first."
+  },
+  {
+    "correct": "with",
+    "error": "wirh",
+    "error_type": "keyboard",
+    "context": "The with shows interesting patterns."
+  },
+  {
+    "correct": "information",
+    "error": "informatuon",
+    "error_type": "keyboard",
+    "context": "We need to consider the information carefully."
+  },
+  {
+    "correct": "want",
+    "error": "wajt",
+    "error_type": "keyboard",
+    "context": "The want shows interesting patterns."
+  },
+  {
+    "correct": "above",
+    "error": "avove",
+    "error_type": "keyboard",
+    "context": "I believe the above is correct."
+  },
+  {
+    "correct": "management",
+    "error": "mabagement",
+    "error_type": "keyboard",
+    "context": "We should focus on the management first."
+  },
+  {
+    "correct": "responsibility",
+    "error": "responsibiloty",
+    "error_type": "keyboard",
+    "context": "We need to consider the responsibility carefully."
+  },
+  {
+    "correct": "understanding",
+    "error": "underwtanding",
+    "error_type": "keyboard",
+    "context": "We need to consider the understanding carefully."
+  },
+  {
+    "correct": "certificate",
+    "error": "certithicate",
+    "error_type": "phonetic",
+    "context": "The certificate appears frequently in texts."
+  },
+  {
+    "correct": "such",
+    "error": "sukh",
+    "error_type": "phonetic",
+    "context": "The such demonstrates the concept well."
+  },
+  {
+    "correct": "other",
+    "error": "ofer",
+    "error_type": "phonetic",
+    "context": "The other is very important in this situation."
+  },
+  {
+    "correct": "colonel",
+    "error": "kolonel",
+    "error_type": "phonetic",
+    "context": "We need to consider the colonel carefully."
+  },
+  {
+    "correct": "technology",
+    "error": "tekhnology",
+    "error_type": "phonetic",
+    "context": "I believe the technology is correct."
+  },
+  {
+    "correct": "application",
+    "error": "applikation",
+    "error_type": "phonetic",
+    "context": "The application demonstrates the concept well."
+  },
+  {
+    "correct": "take",
+    "error": "tace",
+    "error_type": "phonetic",
+    "context": "We need to consider the take carefully."
+  },
+  {
+    "correct": "discipline",
+    "error": "diskipline",
+    "error_type": "phonetic",
+    "context": "I believe the discipline is correct."
+  },
+  {
+    "correct": "experience",
+    "error": "experienke",
+    "error_type": "phonetic",
+    "context": "We should focus on the experience first."
+  },
+  {
+    "correct": "discipline",
+    "error": "diskipline",
+    "error_type": "phonetic",
+    "context": "I believe the discipline is correct."
+  },
+  {
+    "correct": "compression",
+    "error": "kompression",
+    "error_type": "phonetic",
+    "context": "This compression has been discussed many times."
+  },
+  {
+    "correct": "weird",
+    "error": "wierd",
+    "error_type": "phonetic",
+    "context": "We need to consider the weird carefully."
+  },
+  {
+    "correct": "communication",
+    "error": "kommunication",
+    "error_type": "phonetic",
+    "context": "The communication shows interesting patterns."
+  },
+  {
+    "correct": "investigation",
+    "error": "investigashun",
+    "error_type": "phonetic",
+    "context": "The investigation demonstrates the concept well."
+  },
+  {
+    "correct": "compression",
+    "error": "kompression",
+    "error_type": "phonetic",
+    "context": "We should focus on the compression first."
+  },
+  {
+    "correct": "become",
+    "error": "bekome",
+    "error_type": "phonetic",
+    "context": "The become appears frequently in texts."
+  },
+  {
+    "correct": "know",
+    "error": "cnow",
+    "error_type": "phonetic",
+    "context": "I believe the know is correct."
+  },
+  {
+    "correct": "them",
+    "error": "fem",
+    "error_type": "phonetic",
+    "context": "This them has been discussed many times."
+  },
+  {
+    "correct": "because",
+    "error": "bekause",
+    "error_type": "phonetic",
+    "context": "We should focus on the because first."
+  },
+  {
+    "correct": "comparison",
+    "error": "komparison",
+    "error_type": "phonetic",
+    "context": "The comparison demonstrates the concept well."
+  },
+  {
+    "correct": "that",
+    "error": "fat",
+    "error_type": "phonetic",
+    "context": "The that appears frequently in texts."
+  },
+  {
+    "correct": "characteristic",
+    "error": "kharacteristic",
+    "error_type": "phonetic",
+    "context": "The characteristic shows interesting patterns."
+  },
+  {
+    "correct": "authentication",
+    "error": "authentikation",
+    "error_type": "phonetic",
+    "context": "The authentication shows interesting patterns."
+  },
+  {
+    "correct": "this",
+    "error": "fis",
+    "error_type": "phonetic",
+    "context": "The this shows interesting patterns."
+  },
+  {
+    "correct": "existence",
+    "error": "existenke",
+    "error_type": "phonetic",
+    "context": "The existence shows interesting patterns."
+  },
+  {
+    "correct": "receive",
+    "error": "rekeive",
+    "error_type": "phonetic",
+    "context": "This receive has been discussed many times."
+  },
+  {
+    "correct": "accommodate",
+    "error": "akcommodate",
+    "error_type": "phonetic",
+    "context": "The accommodate appears frequently in texts."
+  },
+  {
+    "correct": "background",
+    "error": "bakground",
+    "error_type": "phonetic",
+    "context": "The background appears frequently in texts."
+  },
+  {
+    "correct": "necessary",
+    "error": "nekessary",
+    "error_type": "phonetic",
+    "context": "We need to consider the necessary carefully."
+  },
+  {
+    "correct": "other",
+    "error": "ofer",
+    "error_type": "phonetic",
+    "context": "The other demonstrates the concept well."
+  },
+  {
+    "correct": "compression",
+    "error": "kompression",
+    "error_type": "phonetic",
+    "context": "The compression appears frequently in texts."
+  },
+  {
+    "correct": "first",
+    "error": "thirst",
+    "error_type": "phonetic",
+    "context": "The first shows interesting patterns."
+  },
+  {
+    "correct": "algorithm",
+    "error": "algorifm",
+    "error_type": "phonetic",
+    "context": "The algorithm is very important in this situation."
+  },
+  {
+    "correct": "noticeable",
+    "error": "notikeable",
+    "error_type": "phonetic",
+    "context": "The noticeable demonstrates the concept well."
+  },
+  {
+    "correct": "much",
+    "error": "mukh",
+    "error_type": "phonetic",
+    "context": "This much has been discussed many times."
+  },
+  {
+    "correct": "achievement",
+    "error": "akhievement",
+    "error_type": "phonetic",
+    "context": "We need to consider the achievement carefully."
+  },
+  {
+    "correct": "complexity",
+    "error": "komplexity",
+    "error_type": "phonetic",
+    "context": "I believe the complexity is correct."
+  },
+  {
+    "correct": "administration",
+    "error": "administrashun",
+    "error_type": "phonetic",
+    "context": "The administration shows interesting patterns."
+  },
+  {
+    "correct": "character",
+    "error": "kharacter",
+    "error_type": "phonetic",
+    "context": "The character appears frequently in texts."
+  },
+  {
+    "correct": "being",
+    "error": "bieng",
+    "error_type": "phonetic",
+    "context": "The being shows interesting patterns."
+  },
+  {
+    "correct": "education",
+    "error": "edukation",
+    "error_type": "phonetic",
+    "context": "The education shows interesting patterns."
+  },
+  {
+    "correct": "infrastructure",
+    "error": "inthrastructure",
+    "error_type": "phonetic",
+    "context": "I believe the infrastructure is correct."
+  },
+  {
+    "correct": "know",
+    "error": "cnow",
+    "error_type": "phonetic",
+    "context": "We need to consider the know carefully."
+  },
+  {
+    "correct": "back",
+    "error": "bak",
+    "error_type": "phonetic",
+    "context": "This back has been discussed many times."
+  },
+  {
+    "correct": "for",
+    "error": "thor",
+    "error_type": "phonetic",
+    "context": "This for has been discussed many times."
+  },
+  {
+    "correct": "professional",
+    "error": "prothessional",
+    "error_type": "phonetic",
+    "context": "The professional is very important in this situation."
+  },
+  {
+    "correct": "across",
+    "error": "akross",
+    "error_type": "phonetic",
+    "context": "This across has been discussed many times."
+  },
+  {
+    "correct": "communication",
+    "error": "kommunication",
+    "error_type": "phonetic",
+    "context": "I believe the communication is correct."
+  },
+  {
+    "correct": "you",
+    "error": "yow",
+    "error_type": "phonetic",
+    "context": "This you has been discussed many times."
+  },
+  {
+    "correct": "another",
+    "error": "anofer",
+    "error_type": "phonetic",
+    "context": "We need to consider the another carefully."
+  },
+  {
+    "correct": "receive",
+    "error": "rekeive",
+    "error_type": "phonetic",
+    "context": "The receive appears frequently in texts."
+  },
+  {
+    "correct": "experience",
+    "error": "experienke",
+    "error_type": "phonetic",
+    "context": "We should focus on the experience first."
+  },
+  {
+    "correct": "receive",
+    "error": "rekeive",
+    "error_type": "phonetic",
+    "context": "The receive shows interesting patterns."
+  },
+  {
+    "correct": "take",
+    "error": "tace",
+    "error_type": "phonetic",
+    "context": "This take has been discussed many times."
+  },
+  {
+    "correct": "collaboration",
+    "error": "kollaboration",
+    "error_type": "phonetic",
+    "context": "I believe the collaboration is correct."
+  },
+  {
+    "correct": "calculate",
+    "error": "kalculate",
+    "error_type": "phonetic",
+    "context": "We need to consider the calculate carefully."
+  },
+  {
+    "correct": "about",
+    "error": "abowt",
+    "error_type": "phonetic",
+    "context": "The about shows interesting patterns."
+  },
+  {
+    "correct": "different",
+    "error": "dithferent",
+    "error_type": "phonetic",
+    "context": "We need to consider the different carefully."
+  },
+  {
+    "correct": "organization",
+    "error": "organizashun",
+    "error_type": "phonetic",
+    "context": "We need to consider the organization carefully."
+  },
+  {
+    "correct": "like",
+    "error": "lice",
+    "error_type": "phonetic",
+    "context": "The like appears frequently in texts."
+  },
+  {
+    "correct": "communication",
+    "error": "kommunication",
+    "error_type": "phonetic",
+    "context": "The communication shows interesting patterns."
+  },
+  {
+    "correct": "accommodate",
+    "error": "akcommodate",
+    "error_type": "phonetic",
+    "context": "The accommodate appears frequently in texts."
+  },
+  {
+    "correct": "noticeable",
+    "error": "notikeable",
+    "error_type": "phonetic",
+    "context": "I believe the noticeable is correct."
+  },
+  {
+    "correct": "challenge",
+    "error": "khallenge",
+    "error_type": "phonetic",
+    "context": "We should focus on the challenge first."
+  },
+  {
+    "correct": "this",
+    "error": "fis",
+    "error_type": "phonetic",
+    "context": "I believe the this is correct."
+  },
+  {
+    "correct": "much",
+    "error": "mch",
+    "error_type": "character",
+    "context": "The much appears frequently in texts."
+  },
+  {
+    "correct": "definitely",
+    "error": "definitey",
+    "error_type": "character",
+    "context": "The definitely shows interesting patterns."
+  },
+  {
+    "correct": "argument",
+    "error": "argumet",
+    "error_type": "character",
+    "context": "This argument has been discussed many times."
+  },
+  {
+    "correct": "responsibility",
+    "error": "responsibivity",
+    "error_type": "character",
+    "context": "The responsibility appears frequently in texts."
+  },
+  {
+    "correct": "infrastructure",
+    "error": "infrasturcture",
+    "error_type": "character",
+    "context": "The infrastructure is very important in this situation."
+  },
+  {
+    "correct": "many",
+    "error": "malny",
+    "error_type": "character",
+    "context": "The many appears frequently in texts."
+  },
+  {
+    "correct": "good",
+    "error": "gosd",
+    "error_type": "character",
+    "context": "The good demonstrates the concept well."
+  },
+  {
+    "correct": "that",
+    "error": "thtt",
+    "error_type": "character",
+    "context": "The that appears frequently in texts."
+  },
+  {
+    "correct": "information",
+    "error": "infomation",
+    "error_type": "character",
+    "context": "The information demonstrates the concept well."
+  },
+  {
+    "correct": "here",
+    "error": "hee",
+    "error_type": "character",
+    "context": "The here demonstrates the concept well."
+  },
+  {
+    "correct": "comparison",
+    "error": "coparison",
+    "error_type": "character",
+    "context": "The comparison shows interesting patterns."
+  },
+  {
+    "correct": "first",
+    "error": "fiirst",
+    "error_type": "character",
+    "context": "The first appears frequently in texts."
+  },
+  {
+    "correct": "business",
+    "error": "businesus",
+    "error_type": "character",
+    "context": "We should focus on the business first."
+  },
+  {
+    "correct": "come",
+    "error": "cmoe",
+    "error_type": "character",
+    "context": "I believe the come is correct."
+  },
+  {
+    "correct": "want",
+    "error": "wnnt",
+    "error_type": "character",
+    "context": "The want appears frequently in texts."
+  },
+  {
+    "correct": "after",
+    "error": "aftaer",
+    "error_type": "character",
+    "context": "I believe the after is correct."
+  },
+  {
+    "correct": "because",
+    "error": "beacuse",
+    "error_type": "character",
+    "context": "The because is very important in this situation."
+  },
+  {
+    "correct": "anything",
+    "error": "anyhing",
+    "error_type": "character",
+    "context": "I believe the anything is correct."
+  },
+  {
+    "correct": "investigation",
+    "error": "investigatioun",
+    "error_type": "character",
+    "context": "I believe the investigation is correct."
+  },
+  {
+    "correct": "below",
+    "error": "bleow",
+    "error_type": "character",
+    "context": "The below is very important in this situation."
+  },
+  {
+    "correct": "experience",
+    "error": "expefience",
+    "error_type": "character",
+    "context": "We should focus on the experience first."
+  },
+  {
+    "correct": "believe",
+    "error": "belijeve",
+    "error_type": "character",
+    "context": "The believe appears frequently in texts."
+  },
+  {
+    "correct": "with",
+    "error": "wth",
+    "error_type": "character",
+    "context": "We should focus on the with first."
+  },
+  {
+    "correct": "them",
+    "error": "tmem",
+    "error_type": "character",
+    "context": "I believe the them is correct."
+  },
+  {
+    "correct": "occurrence",
+    "error": "occurrecne",
+    "error_type": "character",
+    "context": "The occurrence is very important in this situation."
+  },
+  {
+    "correct": "management",
+    "error": "managemnt",
+    "error_type": "character",
+    "context": "The management demonstrates the concept well."
+  },
+  {
+    "correct": "other",
+    "error": "otqer",
+    "error_type": "character",
+    "context": "This other has been discussed many times."
+  },
+  {
+    "correct": "between",
+    "error": "betwneen",
+    "error_type": "character",
+    "context": "We should focus on the between first."
+  },
+  {
+    "correct": "characteristic",
+    "error": "charactseristic",
+    "error_type": "character",
+    "context": "The characteristic shows interesting patterns."
+  },
+  {
+    "correct": "will",
+    "error": "wmill",
+    "error_type": "character",
+    "context": "This will has been discussed many times."
+  },
+  {
+    "correct": "weird",
+    "error": "weigd",
+    "error_type": "character",
+    "context": "The weird demonstrates the concept well."
+  },
+  {
+    "correct": "such",
+    "error": "souch",
+    "error_type": "character",
+    "context": "I believe the such is correct."
+  },
+  {
+    "correct": "when",
+    "error": "wen",
+    "error_type": "character",
+    "context": "The when demonstrates the concept well."
+  },
+  {
+    "correct": "become",
+    "error": "betome",
+    "error_type": "character",
+    "context": "The become demonstrates the concept well."
+  },
+  {
+    "correct": "almost",
+    "error": "almsst",
+    "error_type": "character",
+    "context": "The almost shows interesting patterns."
+  },
+  {
+    "correct": "weird",
+    "error": "werd",
+    "error_type": "character",
+    "context": "The weird demonstrates the concept well."
+  },
+  {
+    "correct": "his",
+    "error": "hips",
+    "error_type": "character",
+    "context": "The his appears frequently in texts."
+  },
+  {
+    "correct": "over",
+    "error": "oer",
+    "error_type": "character",
+    "context": "The over shows interesting patterns."
+  },
+  {
+    "correct": "believe",
+    "error": "beliee",
+    "error_type": "character",
+    "context": "The believe appears frequently in texts."
+  },
+  {
+    "correct": "definitely",
+    "error": "definntely",
+    "error_type": "character",
+    "context": "The definitely is very important in this situation."
+  },
+  {
+    "correct": "just",
+    "error": "jst",
+    "error_type": "character",
+    "context": "I believe the just is correct."
+  },
+  {
+    "correct": "infrastructure",
+    "error": "infratsructure",
+    "error_type": "character",
+    "context": "I believe the infrastructure is correct."
+  },
+  {
+    "correct": "development",
+    "error": "developmnet",
+    "error_type": "character",
+    "context": "We should focus on the development first."
+  },
+  {
+    "correct": "background",
+    "error": "bakground",
+    "error_type": "character",
+    "context": "The background demonstrates the concept well."
+  },
+  {
+    "correct": "well",
+    "error": "wel",
+    "error_type": "character",
+    "context": "We need to consider the well carefully."
+  },
+  {
+    "correct": "calendar",
+    "error": "calendaer",
+    "error_type": "character",
+    "context": "We should focus on the calendar first."
+  },
+  {
+    "correct": "from",
+    "error": "frim",
+    "error_type": "character",
+    "context": "The from shows interesting patterns."
+  },
+  {
+    "correct": "always",
+    "error": "alaays",
+    "error_type": "character",
+    "context": "We need to consider the always carefully."
+  },
+  {
+    "correct": "have",
+    "error": "havje",
+    "error_type": "character",
+    "context": "We need to consider the have carefully."
+  },
+  {
+    "correct": "argument",
+    "error": "argcment",
+    "error_type": "character",
+    "context": "This argument has been discussed many times."
+  },
+  {
+    "correct": "they",
+    "error": "thty",
+    "error_type": "character",
+    "context": "The they is very important in this situation."
+  },
+  {
+    "correct": "component",
+    "error": "compoent",
+    "error_type": "character",
+    "context": "I believe the component is correct."
+  },
+  {
+    "correct": "before",
+    "error": "brfore",
+    "error_type": "character",
+    "context": "The before is very important in this situation."
+  },
+  {
+    "correct": "very",
+    "error": "vcry",
+    "error_type": "character",
+    "context": "I believe the very is correct."
+  },
+  {
+    "correct": "independent",
+    "error": "independeunt",
+    "error_type": "character",
+    "context": "We need to consider the independent carefully."
+  },
+  {
+    "correct": "other",
+    "error": "othr",
+    "error_type": "character",
+    "context": "The other demonstrates the concept well."
+  },
+  {
+    "correct": "architecture",
+    "error": "architzcture",
+    "error_type": "character",
+    "context": "I believe the architecture is correct."
+  },
+  {
+    "correct": "many",
+    "error": "mapny",
+    "error_type": "character",
+    "context": "The many shows interesting patterns."
+  },
+  {
+    "correct": "across",
+    "error": "acrsos",
+    "error_type": "character",
+    "context": "The across is very important in this situation."
+  },
+  {
+    "correct": "architecture",
+    "error": "arichitecture",
+    "error_type": "character",
+    "context": "This architecture has been discussed many times."
+  },
+  {
+    "correct": "existence",
+    "error": "existbence",
+    "error_type": "character",
+    "context": "We should focus on the existence first."
+  },
+  {
+    "correct": "bootstrap",
+    "error": "boosttrap",
+    "error_type": "character",
+    "context": "The bootstrap appears frequently in texts."
+  },
+  {
+    "correct": "some",
+    "error": "sokme",
+    "error_type": "character",
+    "context": "We need to consider the some carefully."
+  },
+  {
+    "correct": "you",
+    "error": "yu",
+    "error_type": "character",
+    "context": "The you is very important in this situation."
+  },
+  {
+    "correct": "characteristic",
+    "error": "characterystic",
+    "error_type": "character",
+    "context": "We should focus on the characteristic first."
+  },
+  {
+    "correct": "technology",
+    "error": "technolgoy",
+    "error_type": "character",
+    "context": "This technology has been discussed many times."
+  },
+  {
+    "correct": "organization",
+    "error": "organizatoin",
+    "error_type": "character",
+    "context": "The organization is very important in this situation."
+  },
+  {
+    "correct": "around",
+    "error": "aorund",
+    "error_type": "character",
+    "context": "We should focus on the around first."
+  },
+  {
+    "correct": "against",
+    "error": "aganst",
+    "error_type": "character",
+    "context": "We need to consider the against carefully."
+  },
+  {
+    "correct": "liaison",
+    "error": "laiison",
+    "error_type": "character",
+    "context": "The liaison is very important in this situation."
+  },
+  {
+    "correct": "above",
+    "error": "abvoe",
+    "error_type": "character",
+    "context": "The above appears frequently in texts."
+  },
+  {
+    "correct": "government",
+    "error": "goveqnment",
+    "error_type": "character",
+    "context": "I believe the government is correct."
+  },
+  {
+    "correct": "challenge",
+    "error": "callenge",
+    "error_type": "character",
+    "context": "We should focus on the challenge first."
+  },
+  {
+    "correct": "from",
+    "error": "fjrom",
+    "error_type": "character",
+    "context": "The from appears frequently in texts."
+  },
+  {
+    "correct": "different",
+    "error": "differet",
+    "error_type": "character",
+    "context": "We should focus on the different first."
+  },
+  {
+    "correct": "analysis",
+    "error": "analysqis",
+    "error_type": "character",
+    "context": "The analysis demonstrates the concept well."
+  },
+  {
+    "correct": "actually",
+    "error": "atcually",
+    "error_type": "character",
+    "context": "We need to consider the actually carefully."
+  },
+  {
+    "correct": "against",
+    "error": "agayinst",
+    "error_type": "character",
+    "context": "We need to consider the against carefully."
+  },
+  {
+    "correct": "always",
+    "error": "asways",
+    "error_type": "character",
+    "context": "The always demonstrates the concept well."
+  },
+  {
+    "correct": "below",
+    "error": "beow",
+    "error_type": "character",
+    "context": "The below appears frequently in texts."
+  },
+  {
+    "correct": "millennium",
+    "error": "milelennium",
+    "error_type": "character",
+    "context": "I believe the millennium is correct."
+  },
+  {
+    "correct": "between",
+    "error": "betiween",
+    "error_type": "character",
+    "context": "The between is very important in this situation."
+  },
+  {
+    "correct": "foreign",
+    "error": "froeign",
+    "error_type": "character",
+    "context": "The foreign shows interesting patterns."
+  },
+  {
+    "correct": "your",
+    "error": "yoor",
+    "error_type": "character",
+    "context": "We need to consider the your carefully."
+  },
+  {
+    "correct": "you",
+    "error": "yu",
+    "error_type": "character",
+    "context": "We need to consider the you carefully."
+  },
+  {
+    "correct": "accommodate",
+    "error": "accommodatje",
+    "error_type": "character",
+    "context": "We should focus on the accommodate first."
+  },
+  {
+    "correct": "independent",
+    "error": "indepenent",
+    "error_type": "character",
+    "context": "We need to consider the independent carefully."
+  },
+  {
+    "correct": "collaboration",
+    "error": "collaboraution",
+    "error_type": "character",
+    "context": "We should focus on the collaboration first."
+  },
+  {
+    "correct": "professional",
+    "error": "pyofessional",
+    "error_type": "character",
+    "context": "We need to consider the professional carefully."
+  },
+  {
+    "correct": "first",
+    "error": "firpst",
+    "error_type": "character",
+    "context": "The first appears frequently in texts."
+  },
+  {
+    "correct": "organization",
+    "error": "organigation",
+    "error_type": "character",
+    "context": "The organization is very important in this situation."
+  },
+  {
+    "correct": "argument",
+    "error": "argment",
+    "error_type": "character",
+    "context": "We should focus on the argument first."
+  },
+  {
+    "correct": "information",
+    "error": "indormation",
+    "error_type": "character",
+    "context": "The information appears frequently in texts."
+  },
+  {
+    "correct": "your",
+    "error": "yougr",
+    "error_type": "character",
+    "context": "The your is very important in this situation."
+  },
+  {
+    "correct": "calendar",
+    "error": "calendqar",
+    "error_type": "character",
+    "context": "This calendar has been discussed many times."
+  },
+  {
+    "correct": "they",
+    "error": "tehy",
+    "error_type": "character",
+    "context": "The they appears frequently in texts."
+  },
+  {
+    "correct": "education",
+    "error": "evducation",
+    "error_type": "character",
+    "context": "The education appears frequently in texts."
+  },
+  {
+    "correct": "background",
+    "error": "bacgkground",
+    "error_type": "character",
+    "context": "This background has been discussed many times."
+  },
+  {
+    "correct": "business",
+    "error": "buviness",
+    "error_type": "character",
+    "context": "We should focus on the business first."
+  },
+  {
+    "correct": "management",
+    "error": "maangement",
+    "error_type": "character",
+    "context": "The management shows interesting patterns."
+  },
+  {
+    "correct": "his",
+    "error": "hias",
+    "error_type": "character",
+    "context": "The his is very important in this situation."
+  },
+  {
+    "correct": "professional",
+    "error": "professoinal",
+    "error_type": "character",
+    "context": "The professional is very important in this situation."
+  },
+  {
+    "correct": "foreign",
+    "error": "foregn",
+    "error_type": "character",
+    "context": "The foreign demonstrates the concept well."
+  },
+  {
+    "correct": "this",
+    "error": "tfhis",
+    "error_type": "character",
+    "context": "The this is very important in this situation."
+  },
+  {
+    "correct": "about",
+    "error": "abmout",
+    "error_type": "character",
+    "context": "The about shows interesting patterns."
+  },
+  {
+    "correct": "discipline",
+    "error": "disicpline",
+    "error_type": "character",
+    "context": "The discipline demonstrates the concept well."
+  },
+  {
+    "correct": "know",
+    "error": "knpow",
+    "error_type": "character",
+    "context": "The know shows interesting patterns."
+  },
+  {
+    "correct": "component",
+    "error": "componnt",
+    "error_type": "character",
+    "context": "I believe the component is correct."
+  },
+  {
+    "correct": "always",
+    "error": "aluays",
+    "error_type": "character",
+    "context": "The always demonstrates the concept well."
+  },
+  {
+    "correct": "calculate",
+    "error": "calcluate",
+    "error_type": "character",
+    "context": "The calculate appears frequently in texts."
+  },
+  {
+    "correct": "that",
+    "error": "thtt",
+    "error_type": "character",
+    "context": "The that appears frequently in texts."
+  },
+  {
+    "correct": "among",
+    "error": "amdong",
+    "error_type": "character",
+    "context": "The among is very important in this situation."
+  },
+  {
+    "correct": "architecture",
+    "error": "archtiecture",
+    "error_type": "character",
+    "context": "The architecture demonstrates the concept well."
+  },
+  {
+    "correct": "people",
+    "error": "puople",
+    "error_type": "character",
+    "context": "We need to consider the people carefully."
+  },
+  {
+    "correct": "harass",
+    "error": "harss",
+    "error_type": "character",
+    "context": "We need to consider the harass carefully."
+  },
+  {
+    "correct": "over",
+    "error": "ovepr",
+    "error_type": "character",
+    "context": "The over shows interesting patterns."
+  },
+  {
+    "correct": "administration",
+    "error": "adminispration",
+    "error_type": "character",
+    "context": "This administration has been discussed many times."
+  },
+  {
+    "correct": "business",
+    "error": "bsiness",
+    "error_type": "character",
+    "context": "The business is very important in this situation."
+  },
+  {
+    "correct": "business",
+    "error": "busuness",
+    "error_type": "simple_typo",
+    "context": "The business appears frequently in texts."
+  },
+  {
+    "correct": "anyone",
+    "error": "anykne",
+    "error_type": "simple_typo",
+    "context": "The anyone shows interesting patterns."
+  },
+  {
+    "correct": "management",
+    "error": "managwment",
+    "error_type": "simple_typo",
+    "context": "The management shows interesting patterns."
+  },
+  {
+    "correct": "analysis",
+    "error": "analtsis",
+    "error_type": "simple_typo",
+    "context": "This analysis has been discussed many times."
+  },
+  {
+    "correct": "you",
+    "error": "yku",
+    "error_type": "simple_typo",
+    "context": "We should focus on the you first."
+  },
+  {
+    "correct": "responsibility",
+    "error": "resoonsibility",
+    "error_type": "simple_typo",
+    "context": "We need to consider the responsibility carefully."
+  },
+  {
+    "correct": "being",
+    "error": "bwing",
+    "error_type": "simple_typo",
+    "context": "The being shows interesting patterns."
+  },
+  {
+    "correct": "good",
+    "error": "gkod",
+    "error_type": "simple_typo",
+    "context": "I believe the good is correct."
+  },
+  {
+    "correct": "believe",
+    "error": "bepieve",
+    "error_type": "simple_typo",
+    "context": "I believe the believe is correct."
+  },
+  {
+    "correct": "existence",
+    "error": "exiatence",
+    "error_type": "simple_typo",
+    "context": "I believe the existence is correct."
+  },
+  {
+    "correct": "some",
+    "error": "soke",
+    "error_type": "simple_typo",
+    "context": "The some is very important in this situation."
+  },
+  {
+    "correct": "international",
+    "error": "internafional",
+    "error_type": "simple_typo",
+    "context": "The international appears frequently in texts."
+  },
+  {
+    "correct": "infrastructure",
+    "error": "infrasyructure",
+    "error_type": "simple_typo",
+    "context": "This infrastructure has been discussed many times."
+  },
+  {
+    "correct": "infrastructure",
+    "error": "inrrastructure",
+    "error_type": "simple_typo",
+    "context": "This infrastructure has been discussed many times."
+  },
+  {
+    "correct": "over",
+    "error": "ovdr",
+    "error_type": "simple_typo",
+    "context": "The over shows interesting patterns."
+  },
+  {
+    "correct": "investigation",
+    "error": "investihation",
+    "error_type": "simple_typo",
+    "context": "I believe the investigation is correct."
+  },
+  {
+    "correct": "brightness",
+    "error": "brighthess",
+    "error_type": "simple_typo",
+    "context": "We should focus on the brightness first."
+  },
+  {
+    "correct": "restaurant",
+    "error": "restauraht",
+    "error_type": "simple_typo",
+    "context": "This restaurant has been discussed many times."
+  },
+  {
+    "correct": "was",
+    "error": "wxs",
+    "error_type": "simple_typo",
+    "context": "The was appears frequently in texts."
+  },
+  {
+    "correct": "very",
+    "error": "vedy",
+    "error_type": "simple_typo",
+    "context": "This very has been discussed many times."
+  },
+  {
+    "correct": "well",
+    "error": "wwll",
+    "error_type": "simple_typo",
+    "context": "This well has been discussed many times."
+  },
+  {
+    "correct": "that",
+    "error": "tgat",
+    "error_type": "simple_typo",
+    "context": "The that appears frequently in texts."
+  },
+  {
+    "correct": "foreign",
+    "error": "foteign",
+    "error_type": "simple_typo",
+    "context": "The foreign appears frequently in texts."
+  },
+  {
+    "correct": "restaurant",
+    "error": "rdstaurant",
+    "error_type": "simple_typo",
+    "context": "The restaurant shows interesting patterns."
+  },
+  {
+    "correct": "tomorrow",
+    "error": "tomortow",
+    "error_type": "simple_typo",
+    "context": "The tomorrow demonstrates the concept well."
+  },
+  {
+    "correct": "receive",
+    "error": "redeive",
+    "error_type": "simple_typo",
+    "context": "We should focus on the receive first."
+  },
+  {
+    "correct": "existence",
+    "error": "exietence",
+    "error_type": "simple_typo",
+    "context": "The existence is very important in this situation."
+  },
+  {
+    "correct": "beautiful",
+    "error": "bsautiful",
+    "error_type": "simple_typo",
+    "context": "The beautiful is very important in this situation."
+  },
+  {
+    "correct": "independent",
+    "error": "indepensent",
+    "error_type": "simple_typo",
+    "context": "This independent has been discussed many times."
+  },
+  {
+    "correct": "complexity",
+    "error": "clmplexity",
+    "error_type": "simple_typo",
+    "context": "The complexity demonstrates the concept well."
+  },
+  {
+    "correct": "believe",
+    "error": "bepieve",
+    "error_type": "simple_typo",
+    "context": "I believe the believe is correct."
+  },
+  {
+    "correct": "bandwidth",
+    "error": "bandwjdth",
+    "error_type": "simple_typo",
+    "context": "This bandwidth has been discussed many times."
+  },
+  {
+    "correct": "noticeable",
+    "error": "noticeabpe",
+    "error_type": "simple_typo",
+    "context": "We should focus on the noticeable first."
+  },
+  {
+    "correct": "before",
+    "error": "betore",
+    "error_type": "simple_typo",
+    "context": "The before appears frequently in texts."
+  },
+  {
+    "correct": "them",
+    "error": "thrm",
+    "error_type": "simple_typo",
+    "context": "The them appears frequently in texts."
+  },
+  {
+    "correct": "component",
+    "error": "ckmponent",
+    "error_type": "simple_typo",
+    "context": "I believe the component is correct."
+  },
+  {
+    "correct": "time",
+    "error": "tine",
+    "error_type": "simple_typo",
+    "context": "We need to consider the time carefully."
+  },
+  {
+    "correct": "foreign",
+    "error": "forejgn",
+    "error_type": "simple_typo",
+    "context": "This foreign has been discussed many times."
+  },
+  {
+    "correct": "calculate",
+    "error": "cakculate",
+    "error_type": "simple_typo",
+    "context": "I believe the calculate is correct."
+  },
+  {
+    "correct": "information",
+    "error": "informatiin",
+    "error_type": "simple_typo",
+    "context": "This information has been discussed many times."
+  },
+  {
+    "correct": "compression",
+    "error": "compresaion",
+    "error_type": "simple_typo",
+    "context": "The compression is very important in this situation."
+  },
+  {
+    "correct": "many",
+    "error": "majy",
+    "error_type": "simple_typo",
+    "context": "This many has been discussed many times."
+  },
+  {
+    "correct": "organization",
+    "error": "organizatkon",
+    "error_type": "simple_typo",
+    "context": "This organization has been discussed many times."
+  },
+  {
+    "correct": "existence",
+    "error": "ecistence",
+    "error_type": "simple_typo",
+    "context": "I believe the existence is correct."
+  },
+  {
+    "correct": "for",
+    "error": "flr",
+    "error_type": "simple_typo",
+    "context": "We need to consider the for carefully."
+  },
+  {
+    "correct": "technology",
+    "error": "technokogy",
+    "error_type": "simple_typo",
+    "context": "The technology is very important in this situation."
+  },
+  {
+    "correct": "certificate",
+    "error": "certifocate",
+    "error_type": "simple_typo",
+    "context": "The certificate shows interesting patterns."
+  },
+  {
+    "correct": "long",
+    "error": "lojg",
+    "error_type": "simple_typo",
+    "context": "The long appears frequently in texts."
+  },
+  {
+    "correct": "people",
+    "error": "psople",
+    "error_type": "simple_typo",
+    "context": "The people is very important in this situation."
+  },
+  {
+    "correct": "restaurant",
+    "error": "restautant",
+    "error_type": "simple_typo",
+    "context": "I believe the restaurant is correct."
+  },
+  {
+    "correct": "between",
+    "error": "betwesn",
+    "error_type": "simple_typo",
+    "context": "We need to consider the between carefully."
+  },
+  {
+    "correct": "his",
+    "error": "hjs",
+    "error_type": "simple_typo",
+    "context": "The his is very important in this situation."
+  },
+  {
+    "correct": "and",
+    "error": "abd",
+    "error_type": "simple_typo",
+    "context": "I believe the and is correct."
+  },
+  {
+    "correct": "environment",
+    "error": "environmeht",
+    "error_type": "simple_typo",
+    "context": "The environment appears frequently in texts."
+  },
+  {
+    "correct": "independent",
+    "error": "independebt",
+    "error_type": "simple_typo",
+    "context": "I believe the independent is correct."
+  },
+  {
+    "correct": "existence",
+    "error": "exjstence",
+    "error_type": "simple_typo",
+    "context": "This existence has been discussed many times."
+  },
+  {
+    "correct": "around",
+    "error": "arojnd",
+    "error_type": "simple_typo",
+    "context": "The around shows interesting patterns."
+  },
+  {
+    "correct": "harass",
+    "error": "hqrass",
+    "error_type": "simple_typo",
+    "context": "We should focus on the harass first."
+  },
+  {
+    "correct": "independent",
+    "error": "indepehdent",
+    "error_type": "simple_typo",
+    "context": "I believe the independent is correct."
+  },
+  {
+    "correct": "they",
+    "error": "tyey",
+    "error_type": "simple_typo",
+    "context": "The they appears frequently in texts."
+  },
+  {
+    "correct": "architecture",
+    "error": "aechitecture",
+    "error_type": "simple_typo",
+    "context": "We should focus on the architecture first."
+  },
+  {
+    "correct": "noticeable",
+    "error": "noticeahle",
+    "error_type": "simple_typo",
+    "context": "We need to consider the noticeable carefully."
+  },
+  {
+    "correct": "below",
+    "error": "beoow",
+    "error_type": "simple_typo",
+    "context": "The below shows interesting patterns."
+  },
+  {
+    "correct": "government",
+    "error": "givernment",
+    "error_type": "simple_typo",
+    "context": "The government is very important in this situation."
+  },
+  {
+    "correct": "responsibility",
+    "error": "responxibility",
+    "error_type": "simple_typo",
+    "context": "We need to consider the responsibility carefully."
+  },
+  {
+    "correct": "implementation",
+    "error": "implementatiln",
+    "error_type": "simple_typo",
+    "context": "This implementation has been discussed many times."
+  },
+  {
+    "correct": "embarrass",
+    "error": "embartass",
+    "error_type": "simple_typo",
+    "context": "We need to consider the embarrass carefully."
+  },
+  {
+    "correct": "brightness",
+    "error": "brigntness",
+    "error_type": "simple_typo",
+    "context": "The brightness appears frequently in texts."
+  },
+  {
+    "correct": "already",
+    "error": "alrwady",
+    "error_type": "simple_typo",
+    "context": "I believe the already is correct."
+  },
+  {
+    "correct": "here",
+    "error": "hede",
+    "error_type": "simple_typo",
+    "context": "The here is very important in this situation."
+  },
+  {
+    "correct": "them",
+    "error": "thdm",
+    "error_type": "simple_typo",
+    "context": "The them demonstrates the concept well."
+  },
+  {
+    "correct": "time",
+    "error": "tkme",
+    "error_type": "simple_typo",
+    "context": "This time has been discussed many times."
+  },
+  {
+    "correct": "calendar",
+    "error": "cqlendar",
+    "error_type": "simple_typo",
+    "context": "We should focus on the calendar first."
+  },
+  {
+    "correct": "education",
+    "error": "educatoon",
+    "error_type": "simple_typo",
+    "context": "The education shows interesting patterns."
+  },
+  {
+    "correct": "below",
+    "error": "beoow",
+    "error_type": "simple_typo",
+    "context": "We should focus on the below first."
+  },
+  {
+    "correct": "harass",
+    "error": "harqss",
+    "error_type": "simple_typo",
+    "context": "The harass shows interesting patterns."
+  },
+  {
+    "correct": "when",
+    "error": "whsn",
+    "error_type": "simple_typo",
+    "context": "We should focus on the when first."
+  },
+  {
+    "correct": "among",
+    "error": "amobg",
+    "error_type": "simple_typo",
+    "context": "We should focus on the among first."
+  },
+  {
+    "correct": "independent",
+    "error": "indepehdent",
+    "error_type": "simple_typo",
+    "context": "The independent appears frequently in texts."
+  },
+  {
+    "correct": "analysis",
+    "error": "anapysis",
+    "error_type": "simple_typo",
+    "context": "We need to consider the analysis carefully."
+  },
+  {
+    "correct": "below",
+    "error": "bekow",
+    "error_type": "simple_typo",
+    "context": "The below appears frequently in texts."
+  },
+  {
+    "correct": "environment",
+    "error": "envoronment",
+    "error_type": "simple_typo",
+    "context": "This environment has been discussed many times."
+  },
+  {
+    "correct": "with",
+    "error": "woth",
+    "error_type": "simple_typo",
+    "context": "The with shows interesting patterns."
+  },
+  {
+    "correct": "example",
+    "error": "examlle",
+    "error_type": "simple_typo",
+    "context": "The example demonstrates the concept well."
+  },
+  {
+    "correct": "administration",
+    "error": "arministration",
+    "error_type": "simple_typo",
+    "context": "I believe the administration is correct."
+  },
+  {
+    "correct": "beginning",
+    "error": "beginnjng",
+    "error_type": "simple_typo",
+    "context": "The beginning appears frequently in texts."
+  },
+  {
+    "correct": "some",
+    "error": "spme",
+    "error_type": "simple_typo",
+    "context": "The some is very important in this situation."
+  },
+  {
+    "correct": "with",
+    "error": "wifh",
+    "error_type": "simple_typo",
+    "context": "We should focus on the with first."
+  },
+  {
+    "correct": "other",
+    "error": "ogher",
+    "error_type": "simple_typo",
+    "context": "We need to consider the other carefully."
+  },
+  {
+    "correct": "than",
+    "error": "thwn",
+    "error_type": "simple_typo",
+    "context": "The than is very important in this situation."
+  },
+  {
+    "correct": "they",
+    "error": "tbey",
+    "error_type": "simple_typo",
+    "context": "The they demonstrates the concept well."
+  },
+  {
+    "correct": "some",
+    "error": "soke",
+    "error_type": "simple_typo",
+    "context": "The some is very important in this situation."
+  },
+  {
+    "correct": "embarrass",
+    "error": "embarraws",
+    "error_type": "simple_typo",
+    "context": "The embarrass appears frequently in texts."
+  },
+  {
+    "correct": "tomorrow",
+    "error": "tojorrow",
+    "error_type": "simple_typo",
+    "context": "We need to consider the tomorrow carefully."
+  },
+  {
+    "correct": "your",
+    "error": "yoir",
+    "error_type": "simple_typo",
+    "context": "This your has been discussed many times."
+  },
+  {
+    "correct": "millennium",
+    "error": "millenjium",
+    "error_type": "simple_typo",
+    "context": "The millennium demonstrates the concept well."
+  },
+  {
+    "correct": "jewelry",
+    "error": "jeeelry",
+    "error_type": "simple_typo",
+    "context": "I believe the jewelry is correct."
+  },
+  {
+    "correct": "colonel",
+    "error": "colinel",
+    "error_type": "simple_typo",
+    "context": "The colonel appears frequently in texts."
+  },
+  {
+    "correct": "algorithm",
+    "error": "alborithm",
+    "error_type": "simple_typo",
+    "context": "The algorithm appears frequently in texts."
+  },
+  {
+    "correct": "recommendation",
+    "error": "recommemdation",
+    "error_type": "simple_typo",
+    "context": "The recommendation is very important in this situation."
+  },
+  {
+    "correct": "have",
+    "error": "hage",
+    "error_type": "simple_typo",
+    "context": "I believe the have is correct."
+  },
+  {
+    "correct": "such",
+    "error": "suxh",
+    "error_type": "simple_typo",
+    "context": "We need to consider the such carefully."
+  },
+  {
+    "correct": "calendar",
+    "error": "caoendar",
+    "error_type": "simple_typo",
+    "context": "We should focus on the calendar first."
+  },
+  {
+    "correct": "here",
+    "error": "hefe",
+    "error_type": "simple_typo",
+    "context": "The here shows interesting patterns."
+  },
+  {
+    "correct": "experience",
+    "error": "expefience",
+    "error_type": "simple_typo",
+    "context": "The experience demonstrates the concept well."
+  },
+  {
+    "correct": "responsibility",
+    "error": "responsibikity",
+    "error_type": "simple_typo",
+    "context": "The responsibility shows interesting patterns."
+  },
+  {
+    "correct": "calendar",
+    "error": "caoendar",
+    "error_type": "simple_typo",
+    "context": "The calendar appears frequently in texts."
+  },
+  {
+    "correct": "discipline",
+    "error": "disfipline",
+    "error_type": "simple_typo",
+    "context": "The discipline shows interesting patterns."
+  },
+  {
+    "correct": "very",
+    "error": "vety",
+    "error_type": "simple_typo",
+    "context": "The very is very important in this situation."
+  },
+  {
+    "correct": "embarrass",
+    "error": "ekbarrass",
+    "error_type": "simple_typo",
+    "context": "We need to consider the embarrass carefully."
+  },
+  {
+    "correct": "being",
+    "error": "beong",
+    "error_type": "simple_typo",
+    "context": "We need to consider the being carefully."
+  },
+  {
+    "correct": "know",
+    "error": "kniw",
+    "error_type": "simple_typo",
+    "context": "The know is very important in this situation."
+  },
+  {
+    "correct": "understanding",
+    "error": "understancing",
+    "error_type": "simple_typo",
+    "context": "The understanding shows interesting patterns."
+  },
+  {
+    "correct": "jewelry",
+    "error": "jewrlry",
+    "error_type": "simple_typo",
+    "context": "The jewelry appears frequently in texts."
+  },
+  {
+    "correct": "calendar",
+    "error": "calwndar",
+    "error_type": "simple_typo",
+    "context": "The calendar demonstrates the concept well."
+  },
+  {
+    "correct": "when",
+    "error": "whsn",
+    "error_type": "simple_typo",
+    "context": "The when is very important in this situation."
+  },
+  {
+    "correct": "different",
+    "error": "difcerent",
+    "error_type": "simple_typo",
+    "context": "We should focus on the different first."
+  },
+  {
+    "correct": "definitely",
+    "error": "definitepy",
+    "error_type": "simple_typo",
+    "context": "We need to consider the definitely carefully."
+  },
+  {
+    "correct": "time",
+    "error": "tkme",
+    "error_type": "simple_typo",
+    "context": "We should focus on the time first."
+  },
+  {
+    "correct": "make",
+    "error": "maje",
+    "error_type": "simple_typo",
+    "context": "I believe the make is correct."
+  },
+  {
+    "correct": "around",
+    "error": "aroubd",
+    "error_type": "simple_typo",
+    "context": "The around demonstrates the concept well."
+  },
+  {
+    "correct": "millennium",
+    "error": "mollennium",
+    "error_type": "simple_typo",
+    "context": "This millennium has been discussed many times."
+  },
+  {
+    "correct": "was",
+    "error": "wqs",
+    "error_type": "simple_typo",
+    "context": "I believe the was is correct."
+  },
+  {
+    "correct": "jewelry",
+    "error": "jewekry",
+    "error_type": "simple_typo",
+    "context": "We need to consider the jewelry carefully."
+  },
+  {
+    "correct": "business",
+    "error": "businrss",
+    "error_type": "simple_typo",
+    "context": "We should focus on the business first."
+  }
+]

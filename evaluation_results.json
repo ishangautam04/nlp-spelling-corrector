@@ -1,0 +1,134 @@
+[
+  {
+    "method": "pyspellchecker",
+    "total_samples": 2671,
+    "correct_corrections": 2451,
+    "corrections_made": 2528,
+    "accuracy_%": 91.76,
+    "avg_time_ms": 32.24,
+    "total_time_sec": 86.11,
+    "error_type_accuracy": {
+      "keyboard": 97.2,
+      "phonetic": 73.66071428571429,
+      "character": 91.97786998616874,
+      "simple_typo": 96.93333333333334
+    },
+    "error_type_stats": {
+      "keyboard": {
+        "correct": 729,
+        "total": 750
+      },
+      "phonetic": {
+        "correct": 330,
+        "total": 448
+      },
+      "character": {
+        "correct": 665,
+        "total": 723
+      },
+      "simple_typo": {
+        "correct": 727,
+        "total": 750
+      }
+    }
+  },
+  {
+    "method": "autocorrect",
+    "total_samples": 2671,
+    "correct_corrections": 2354,
+    "corrections_made": 2467,
+    "accuracy_%": 88.13,
+    "avg_time_ms": 4.276,
+    "total_time_sec": 11.42,
+    "error_type_accuracy": {
+      "keyboard": 92.80000000000001,
+      "phonetic": 70.53571428571429,
+      "character": 88.93499308437067,
+      "simple_typo": 93.2
+    },
+    "error_type_stats": {
+      "keyboard": {
+        "correct": 696,
+        "total": 750
+      },
+      "phonetic": {
+        "correct": 316,
+        "total": 448
+      },
+      "character": {
+        "correct": 643,
+        "total": 723
+      },
+      "simple_typo": {
+        "correct": 699,
+        "total": 750
+      }
+    }
+  },
+  {
+    "method": "frequency",
+    "total_samples": 2671,
+    "correct_corrections": 1852,
+    "corrections_made": 2528,
+    "accuracy_%": 69.34,
+    "avg_time_ms": 34.06,
+    "total_time_sec": 90.97,
+    "error_type_accuracy": {
+      "keyboard": 73.46666666666667,
+      "phonetic": 54.24107142857143,
+      "character": 71.9225449515906,
+      "simple_typo": 71.73333333333333
+    },
+    "error_type_stats": {
+      "keyboard": {
+        "correct": 551,
+        "total": 750
+      },
+      "phonetic": {
+        "correct": 243,
+        "total": 448
+      },
+      "character": {
+        "correct": 520,
+        "total": 723
+      },
+      "simple_typo": {
+        "correct": 538,
+        "total": 750
+      }
+    }
+  },
+  {
+    "method": "levenshtein",
+    "total_samples": 2671,
+    "correct_corrections": 1623,
+    "corrections_made": 1873,
+    "accuracy_%": 60.76,
+    "avg_time_ms": 37.543,
+    "total_time_sec": 100.28,
+    "error_type_accuracy": {
+      "keyboard": 65.2,
+      "phonetic": 50.66964285714286,
+      "character": 59.88934993084371,
+      "simple_typo": 63.2
+    },
+    "error_type_stats": {
+      "keyboard": {
+        "correct": 489,
+        "total": 750
+      },
+      "phonetic": {
+        "correct": 227,
+        "total": 448
+      },
+      "character": {
+        "correct": 433,
+        "total": 723
+      },
+      "simple_typo": {
+        "correct": 474,
+        "total": 750
+      }
+    }
+  }
+]

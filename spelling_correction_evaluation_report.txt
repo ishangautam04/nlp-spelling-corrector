@@ -1,0 +1,34 @@
+================================================================================
+COMPREHENSIVE SPELLING CORRECTION EVALUATION REPORT
+================================================================================
+
+Dataset Information:
+Total samples: 433
+Error types: keyboard, character, simple_typo, phonetic
+
+METHOD               ACCURACY   TIME (s)   TYPE        
+------------------------------------------------------------
+pyspellchecker       0.926      5.4        individual  
+autocorrect          0.912      1.0        individual  
+frequency            0.753      5.3        individual  
+levenshtein          0.642      5.5        individual  
+
+Best Overall Method: pyspellchecker (0.926)
+
+ERROR TYPE PERFORMANCE:
+----------------------------------------
+keyboard: Best = pyspellchecker (0.984)
+phonetic: Best = autocorrect (0.769)
+character: Best = pyspellchecker (0.924)
+simple_typo: Best = autocorrect (0.960)
+
+ALGORITHM STRENGTHS:
+----------------------------------------
+
+PYSPELLCHECKER excels at:
+  • keyboard: 0.984
+  • character: 0.924
+
+AUTOCORRECT excels at:
+  • simple_typo: 0.960
+  • phonetic: 0.769

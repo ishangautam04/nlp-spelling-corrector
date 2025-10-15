@@ -118,105 +118,8 @@ class SpellingCorrector:
         # PySpellChecker already returns candidates sorted by frequency
         return list(candidates)[0]
     
-    def ensemble_correction(self, word, prev_word="", next_word=""):
-        """High-performance ensemble with only the best algorithms"""
-        # Only use the top-performing algorithms
-        corrections = {
-            'pyspellchecker': self.correct_with_pyspellchecker(word),
-            'frequency': self.correct_with_frequency(word),
-            'autocorrect': self.correct_with_autocorrect(word),
-            'levenshtein': self.correct_with_levenshtein(word)
-        }
-        
-        # Optimized weights based on performance testing
-        weights = {
-            'pyspellchecker': 4.0,    # Best overall statistical accuracy
-            'frequency': 3.5,         # Excellent for common words like "teh"
-            'autocorrect': 2.5,       # Good machine learning approach
-            'levenshtein': 2.0        # Good for character-level similarity
-        }
-        
-        # Calculate weighted votes
-        weighted_votes = {}
-        for method, correction in corrections.items():
-            weight = weights.get(method, 1.0)
-            if correction in weighted_votes:
-                weighted_votes[correction] += weight
-            else:
-                weighted_votes[correction] = weight
-        
-        # Get the correction with highest weighted score
-        best_correction = max(weighted_votes.items(), key=lambda x: x[1])
-        majority_choice = best_correction[0]
-        
-        # Apply context-based override if we have context and there's competition
-        if (prev_word or next_word) and len(weighted_votes) > 1:
-            # Get top 2 candidates
-            sorted_votes = sorted(weighted_votes.items(), key=lambda x: x[1], reverse=True)
-            if len(sorted_votes) >= 2:
-                top_candidate = sorted_votes[0][0]
-                second_candidate = sorted_votes[1][0]
-                
-                # If the scores are close (within 1.0), use context to decide
-                if sorted_votes[0][1] - sorted_votes[1][1] <= 1.0:
-                    candidates = [top_candidate, second_candidate]
-                    context_choice = self._score_with_context(word, candidates, prev_word.lower(), next_word.lower())
-                    if context_choice != top_candidate:
-                        majority_choice = context_choice
-        
-        return majority_choice, corrections
-    
-    def correct_text(self, text, method='ensemble'):
-        """Correct entire text with specified method"""
-        if method == 'context':
-            return self.correct_with_context(text)
-        elif method == 'ensemble':
-            # Enhanced ensemble with context awareness
-            words = text.split()
-            corrected_words = []
-            corrections_log = []
-            
-            for i, word in enumerate(words):
-                # Get context
-                prev_word = words[i-1] if i > 0 else ""
-                next_word = words[i+1] if i < len(words)-1 else ""
-                
-                # Check if word needs correction
-                if word not in self.pyspell_checker:
-                    corrected_word, method_results = self.ensemble_correction(word, prev_word, next_word)
-                    corrected_words.append(corrected_word)
-                    
-                    if corrected_word != word:
-                        corrections_log.append({
-                            'original': word,
-                            'corrected': corrected_word,
-                            'all_methods': method_results
-                        })
-                else:
-                    corrected_words.append(word)
-            
-            return " ".join(corrected_words), corrections_log
-        else:
-            # Single method correction word by word
-            words = self.tokenize(text)
-            corrected_words = []
-            
-            for word in words:
-                if method == 'pyspellchecker':
-                    corrected_words.append(self.correct_with_pyspellchecker(word))
-                elif method == 'autocorrect':
-                    corrected_words.append(self.correct_with_autocorrect(word))
-                elif method == 'levenshtein':
-                    corrected_words.append(self.correct_with_levenshtein(word))
-                elif method == 'frequency':
-                    corrected_words.append(self.correct_with_frequency(word))
-                else:
-                    corrected_words.append(word)
-            
-            return " ".join(corrected_words)
-    
-    def correct_text(self, text, method='ensemble'):
-        """Correct spelling in entire text"""
+    def correct_text(self, text, method='pyspellchecker'):
+        """Correct spelling in entire text using specified method"""
         # Preprocess and tokenize
         processed_text = self.preprocess_text(text)
         words = self.tokenize_text(processed_text)
@@ -225,23 +128,16 @@ class SpellingCorrector:
         corrections_made = []
         
         for word in words:
-            if method == 'ensemble':
-                corrected_word, all_corrections = self.ensemble_correction(word)
-            elif method == 'pyspellchecker':
+            if method == 'pyspellchecker':
                 corrected_word = self.correct_with_pyspellchecker(word)
-                all_corrections = None
             elif method == 'autocorrect':
                 corrected_word = self.correct_with_autocorrect(word)
-                all_corrections = None
             elif method == 'levenshtein':
                 corrected_word = self.correct_with_levenshtein(word)
-                all_corrections = None
             elif method == 'frequency':
                 corrected_word = self.correct_with_frequency(word)
-                all_corrections = None
             else:
                 corrected_word = word
-                all_corrections = None
             
             corrected_words.append(corrected_word)
             
@@ -250,7 +146,7 @@ class SpellingCorrector:
                 correction_info = {
                     'original': word,
                     'corrected': corrected_word,
-                    'all_methods': all_corrections
+                    'all_methods': None  # No ensemble, so no multiple methods
                 }
                 corrections_made.append(correction_info)
         
@@ -292,16 +188,14 @@ def main():
         print(f"\nExample {i}:")
         print(f"Original: {text}")
         
-        # Correct using ensemble method
-        corrected_text, corrections = corrector.correct_text(text, method='ensemble')
+        # Correct using PySpellChecker (best performing method)
+        corrected_text, corrections = corrector.correct_text(text, method='pyspellchecker')
         print(f"Corrected: {corrected_text}")
         
         if corrections:
             print("Corrections made:")
             for correction in corrections:
                 print(f"  '{correction['original']}' → '{correction['corrected']}'")
-                if correction['all_methods']:
-                    print(f"    Methods used: {correction['all_methods']}")
         else:
             print("No corrections needed.")
         
@@ -323,7 +217,7 @@ def main():
             continue
         
         # Show corrections for different methods
-        methods = ['ensemble', 'pyspellchecker', 'autocorrect', 'levenshtein']
+        methods = ['pyspellchecker', 'autocorrect', 'frequency', 'levenshtein']
         
         print(f"\nOriginal: {user_input}")
         print("\nCorrections by different methods:")
